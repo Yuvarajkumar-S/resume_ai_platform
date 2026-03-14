@@ -21,3 +21,10 @@ pip install -r requirements.txt
 ## Run
 
 streamlit run app.py
+
+
+## Live Demo
+
+Access the deployed application here:
+
+https://resumeaiplatform-jteww34dhwkmua4ay2g8st.streamlit.app/
