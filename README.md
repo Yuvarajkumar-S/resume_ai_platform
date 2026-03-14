@@ -28,3 +28,11 @@ streamlit run app.py
 Access the deployed application here:
 
 https://resumeaiplatform-jteww34dhwkmua4ay2g8st.streamlit.app/
+
+
+## 🎥 Demo Video
+
+Watch the demo here:
+
+https://www.loom.com/share/2a96785c777049b09784aa77d69fa90b
+
