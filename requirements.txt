@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+sentence-transformers
+scikit-learn
+plotly
+pandas
+faiss-cpu
+textstat
