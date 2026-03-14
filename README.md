@@ -1,4 +1,4 @@
-# resume_ai_platform
+
 # AI Resume Intelligence Platform
 
 AI-powered resume analysis system.
